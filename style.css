@@ -1,0 +1,14 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#result {
+  font-weight: bold;
+  font-size: 1.2em;
+}
